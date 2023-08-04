@@ -19,4 +19,4 @@ Antes de executar a aplicação, certifique-se de ter instalado em sua máquina 
 	
 	3.3 ~ Quantidade de caracteres especiais desejados para a senha.
 	
-	
+OBS: -> Posteriormente pretendo atualizar o projeto aumentado um pouco a complexidade através de operações lambda.
